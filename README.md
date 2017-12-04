@@ -3,7 +3,7 @@ Deep Q-Learning Network with Keras (Theano backend) to play the Moody Man.
 
 I refer a lot to yanpanlau's code here https://github.com/yanpanlau/Keras-FlappyBird/blob/master/README.md. Thanks yanpanlau!
 
-You can refer to some info about Q-learning in my blog: https://blog.bkbklim.com/2017/10/11/deep-moody-man/
+You can refer to some info about Q-learning in my blog: https://blog.bkbklim.com/2017/10/11/deep-moody-man/， or watch this video to see the AI in action :D https://www.youtube.com/watch?v=ryjJUGzDZ_8
 
 ```
 Python 2.7
